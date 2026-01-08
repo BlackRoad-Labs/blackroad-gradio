@@ -1,5 +1,17 @@
 # @gradio/chatbot
 
+## 0.29.1
+
+### Fixes
+
+- [#12675](https://github.com/gradio-app/gradio/pull/12675) [`3aee8ae`](https://github.com/gradio-app/gradio/commit/3aee8aeb74dfe41b24a6626a8e30582e654dc457) - Allow multiple file messages to be displayed in Chatbot.  Thanks @freddyaboulton!
+
+### Dependency updates
+
+- @gradio/client@2.0.2
+- @gradio/gallery@0.16.1
+- @gradio/video@0.20.0
+
 ## 0.29.0
 
 ### Features

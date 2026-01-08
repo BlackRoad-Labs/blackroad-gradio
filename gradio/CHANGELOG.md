@@ -1,5 +1,22 @@
 # gradio
 
+## 6.3.0
+
+### Features
+
+- [#12680](https://github.com/gradio-app/gradio/pull/12680) [`c99a50b`](https://github.com/gradio-app/gradio/commit/c99a50b9434bf66282a5308d442beeb97f6cf6bb) - Add .input() to Video.  Thanks @hysts!
+
+### Fixes
+
+- [#12614](https://github.com/gradio-app/gradio/pull/12614) [`6222192`](https://github.com/gradio-app/gradio/commit/622219242412400df57a73aebfd3de96bb8499de) - fix(client): make WebP and VTT MIME type detection case-insensitive.  Thanks @majiayu000!
+- [#12626](https://github.com/gradio-app/gradio/pull/12626) [`3a39ee4`](https://github.com/gradio-app/gradio/commit/3a39ee4a9af660636f6ce7cd383634d48e4030a3) - Fix Bug Where Invisible Columns Take Up Space.  Thanks @aliabid94!
+- [#12605](https://github.com/gradio-app/gradio/pull/12605) [`48f580b`](https://github.com/gradio-app/gradio/commit/48f580b508c1f7fe121929aceecc31b2af15c189) - fix: Fix Textbox white background in dark mode.  Thanks @Godkunn!
+- [#12608](https://github.com/gradio-app/gradio/pull/12608) [`ab20c59`](https://github.com/gradio-app/gradio/commit/ab20c592e1fab33e96ab2698bbbb942d0972501b) - feat(client): add generic type parameter to predict() method.  Thanks @majiayu000!
+- [#12675](https://github.com/gradio-app/gradio/pull/12675) [`3aee8ae`](https://github.com/gradio-app/gradio/commit/3aee8aeb74dfe41b24a6626a8e30582e654dc457) - Allow multiple file messages to be displayed in Chatbot.  Thanks @freddyaboulton!
+- [#12636](https://github.com/gradio-app/gradio/pull/12636) [`3194f29`](https://github.com/gradio-app/gradio/commit/3194f294e142508b7dc7d28d35fdf33627bb5993) - Fix docs for Tab select event.  Thanks @freddyaboulton!
+- [#12627](https://github.com/gradio-app/gradio/pull/12627) [`fa75712`](https://github.com/gradio-app/gradio/commit/fa75712a3257e0e09bfce7abbd4f40fa54f6db98) - Add custom buttons to `gr.Dropdown(multiselect=True)` and `gr.LinePlot` and other native plots.  Thanks @abidlabs!
+- [#12601](https://github.com/gradio-app/gradio/pull/12601) [`5fae6b7`](https://github.com/gradio-app/gradio/commit/5fae6b7e36ef126a71b38a207593323e4cc40f3b) - Fix Infinite Change Event in Browser History.  Thanks @freddyaboulton!
+
 ## 6.2.0
 
 ### Features

@@ -4,6 +4,12 @@
 
 ### Dependency updates
 
+- @gradio/client@2.0.2
+
+## 0.4.15
+
+### Dependency updates
+
 - @gradio/utils@0.11.0
 - @gradio/client@2.0.1
 - @gradio/button@0.6.1

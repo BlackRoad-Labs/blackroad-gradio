@@ -1,5 +1,11 @@
 # website
 
+## 0.68.0
+
+### Features
+
+- [#12624](https://github.com/gradio-app/gradio/pull/12624) [`06d657b`](https://github.com/gradio-app/gradio/commit/06d657b27143538c58a64f425943f7dfa9a5e032) - Remove type parameter from Chatbot Docs.  Thanks @freddyaboulton!
+
 ## 0.67.2
 
 ### Dependency updates
